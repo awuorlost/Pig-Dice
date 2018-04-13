@@ -36,5 +36,6 @@ body{
 }
 #createdBy{
   border-top: 20%;
-  color: lightgrey;
+  color: black;
+  margin-top: 2;s
 }
