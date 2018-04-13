@@ -1,11 +1,11 @@
-// User Interface
+// Interface
 $(document).ready(function() {
 
   $("button#start").click(function(event){
     player1 = new Player(true);
     player2 =  new Player(false);
     $(".player-console").show();
-    $(".start-menu").hide();
+    $(".start").hide();
 
     var player1Name = $(".player1Name").val();
     $("#player1Name").text(player1Name);
@@ -28,7 +28,7 @@ $(document).ready(function() {
     $("#roundTotalTwo").empty();
     $("#totalScoreTwo").empty();
     $("#dieRollTwo").empty();
-    $(".start-menu").show();
+    $(".start").show();
   });
 
   $("button#player1-roll").click(function(event){
