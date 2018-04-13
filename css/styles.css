@@ -3,16 +3,16 @@ player-console {
 }
 .jumbotron{
   text-align: center;
-  background-color:rgba(90, 128, 128,0.4);
+  background-image: url("../Images/RoseGold.jpg");
   border: none;
   outline:none;
   color:white;
 }
 body{
-  background-image: url();
+  background-image: url("../Images/wallpaper.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+  background-size: cover;
 }
 .box{
   text-align: center;
