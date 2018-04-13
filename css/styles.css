@@ -3,10 +3,10 @@ player-console {
 }
 .jumbotron{
   text-align: center;
-  background-image: url("../Images/RoseGold.jpg");
+  background-image: url("../Images/gold.jpg");
   border: none;
   outline:none;
-  color:white;
+  color:black;
 }
 body{
   background-image: url("../Images/wallpaper.jpg");
