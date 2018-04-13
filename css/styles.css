@@ -13,6 +13,7 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  font-family: 'Raleway', sans-serif;
 }
 .box{
   text-align: center;
