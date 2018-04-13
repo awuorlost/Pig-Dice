@@ -27,7 +27,7 @@ JavaScript
 awuorattyang@gmail.com
 
 ##Link
-
+ https://awuorlost.github.io/Pig-Dice/
 
 ### License
 
